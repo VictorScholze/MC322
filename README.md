@@ -1,2 +1,2 @@
-# mc322
+# MC322
 project
